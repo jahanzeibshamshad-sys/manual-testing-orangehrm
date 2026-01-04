@@ -1,0 +1,4 @@
+| Requirement ID | Requirement                                | Test Case ID | Status |
+| -------------- | ------------------------------------------ | ------------ | ------ |
+| REQ_L_01       | User should login with valid credentials   | TC_L_01      | Pass   |
+| REQ_L_02       | System should show error for invalid login | TC_L_02      | Pass   |
