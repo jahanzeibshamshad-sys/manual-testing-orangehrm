@@ -1,0 +1,5 @@
+| Test Case ID | Test Scenario    | Test Steps                              | Expected Result             | Actual Result | Status |
+| ------------ | ---------------- | --------------------------------------- | --------------------------- | ------------- | ------ |
+| TC_L_01      | Valid Login      | Enter valid username & password         | User logged in successfully | As Expected   | Pass   |
+| TC_L_02      | Invalid Password | Enter valid username & invalid password | Error message displayed     | As Expected   | Pass   |
+| TC_L_03      | Blank Fields     | Click login without credentials         | Validation message          | As Expected   | Pass   |
